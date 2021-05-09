@@ -1,5 +1,5 @@
 # Oasis 2.0 [![Build Status](https://travis-ci.com/stampylongr/oasisclosed.svg?branch=master)](https://travis-ci.com/stampylongr/oasisclosed)
-A modified version of Oasis. Also join our [Website](https://le-kokomo.party)!
+A modified version of Oasis.
 Just a fix for the [original Oasis repo by Pip](https://github.com/OhHeyItsPip/oasis). Because some files were actually broken. 
 
 # Requirements
